@@ -21,7 +21,8 @@ Since then I pushed **9** commits, opened **20** issues, submitted **10** pull r
 
 ### Most used languages across my projects:
 
-![PHP](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%232b7489&message=PHP%EF%B8%B110.9%25)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 
 <details>
