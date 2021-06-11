@@ -1,4 +1,7 @@
 > 👨🏻‍💻 
+Joined Github **2** years ago.
+
+Since then I pushed **9** commits, opened **20** issues, submitted **10** pull requests, received **0** stars across **9** personal projects and contributed to **0** public repositories.
 
 ### Tech Stack
 
