@@ -1,6 +1,6 @@
 # Hi there, I'm Viandra Fajar - aka [vian](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ) 👋
 ## About me:
-- 🔭 I’m currently working at [XL Axiata](https://www.huawei.com/en/?ic_medium=direct&ic_source=surlent)
+- 🔭 I’m currently working at [XL Axiata](https://www.xl.co.id/)
 - 🌱 I’m currently learning Java, Python and Javascript
 - 👯 I’m looking to collaborate as UI/UX Design, Product Management and Data Analyst
 - 🤔 I’m looking for suggest for Business and Data Analyst
