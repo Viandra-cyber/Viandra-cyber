@@ -1,4 +1,4 @@
-# Hi there, I'm Viandra Fajar - aka [vian](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ) 👋
+# Hi there, I'm [Viandra Fajar](https://www.linkedin.com/in/viandrafajareffendy/) 👋
 ## About me:
 - 🔭 I’m currently working at [XL Axiata](https://www.xl.co.id/)
 - 🌱 I’m currently learning Java, Python and Javascript
